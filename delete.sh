@@ -1,2 +1,2 @@
 #!/usr/bin/env bash
-kind cluster delete
+kind delete cluster
